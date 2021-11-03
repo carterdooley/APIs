@@ -1,0 +1,21 @@
+API QUESTIONS:
+
+1. Darth Vader height = 202"
+2. Population of Alderaan = 2000000000
+3. Millennium Falcon Manufacturer = Corellian Engineering Corporation
+4. Species that C-3P0 belongs to = Droid
+5. Title of films containing Obi-Wan-Kenobi = All
+6. Search query?
+
+Part 2
+
+1. Requires Id and text
+2. Get request returns json objects
+3. https://practiceapi.devmountain.com/api/post/555
+4. Text and date json
+5. https://practiceapi.devmountain.com/api/posts/filter?text=Carter
+6. put https://practiceapi.devmountain.com/api/posts/filter?text=Carter
+7. https://practiceapi.devmountain.com/api/posts/filter?text=blue
+8. Content type is Json Objects
+9. If url is type incorrectly
+10. Returns everything because there is no filter opperation 
