@@ -1,0 +1,20 @@
+button {
+    background-color: blue;
+    color: white;
+    position: fixed;
+    left: 700px;
+    top: 10%;
+}
+
+ul {
+    background-color:rgb(151, 27, 27);
+    font-style: italic;
+    position: fixed;
+    bottom: 50%;
+    left: 750px;
+    
+}
+
+body {
+    background-image: url(photo-1472457897821-70d3819a0e24.jpg) ;
+}

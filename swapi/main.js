@@ -7,9 +7,9 @@ const resBtn = (req, res) => {
             let arr = res.data.residents
             axios.get(arr[i]).then((resp) => {
                 let residents = resp.data.name
-                let h1 = document.createElement("h1")
-               h1.textContent = residents
-                document.querySelector('body').append(h1)
+                let h2 = document.createElement("h2")
+               h2.textContent = residents
+                document.querySelector('ul').append(h2)
             })
         }
     })
